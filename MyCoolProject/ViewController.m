@@ -20,6 +20,7 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+// Here's the third comment
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
